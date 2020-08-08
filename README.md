@@ -16,4 +16,4 @@ This is a repository for coding challenges which I completed in Coding challenge
    5. [Day-05](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020/Day-05)
    6. [Day-06](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020/Day-06)
    7. [Day-07]
-   8. [Day-08]()
+   8. [Day-08](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020/Day-08)
