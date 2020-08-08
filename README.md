@@ -5,7 +5,7 @@ This is a repository for coding challenges which I completed in Coding challenge
 ## [Algotithm](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm)
   [Implementation](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation)
    1. [Grading Students](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Grading%20Students)
-   2. []()
+   2. [Apple and Orange](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Apple%20and%20Orange)
 
 # [LeetCode](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode)
 ## [Challenge-Aug2020](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020)
