@@ -5,7 +5,7 @@ Note: For the purpose of this problem, we define empty string as valid palindrom
 
 Example 1:
 
-Input: "A man, a plan, a canal: Panama"
+Input: "A man, a plan, a canal: Panama"<br/>
 Output: true
 Example 2:
 
