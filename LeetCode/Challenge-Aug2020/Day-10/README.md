@@ -14,20 +14,20 @@ For example:
     ...
 Example 1:
 
-Input: "A"
-Output: 1
-Example 2:
+Input: "A"<br/>
+Output: 1<br/>
+Example 2:<br/>
 
-Input: "AB"
-Output: 28
-Example 3:
+Input: "AB"<br/>
+Output: 28<br/>
+Example 3:<br/>
 
-Input: "ZY"
-Output: 701
+Input: "ZY"<br/>
+Output: 701<br/>
  
 
 Constraints:
 
-1 <= s.length <= 7
-s consists only of uppercase English letters.
-s is between "A" and "FXSHRXW".
+1 <= s.length <= 7<br/>
+s consists only of uppercase English letters.<br/>
+s is between "A" and "FXSHRXW".<br/>
