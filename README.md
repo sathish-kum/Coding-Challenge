@@ -7,7 +7,7 @@ This is a repository for coding challenges which I completed in Coding challenge
    1. [Grading Students](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Grading%20Students)
    2. [Apple and Orange](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Apple%20and%20Orange)
    3. [Kangaroo](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Kangaroo)
-   4. [Breaking the records](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Breaking the records)
+   4. [Breaking the records](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Breaking%20the%20records)
 
 # [LeetCode](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode)
 ## [Challenge-Aug2020](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020)
