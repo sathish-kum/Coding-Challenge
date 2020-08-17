@@ -10,6 +10,7 @@ This is a repository for coding challenges which I completed in Coding challenge
    4. [Breaking the records](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Breaking%20the%20records)
    5. [Birthday Chocolate](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Birthday%20Chocolate)
    6. [Divisible Sum Pairs](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Divisible%20Sum%20Pairs)
+   7. [Migratory Birds](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Migratory%20Birds)
 
 # [LeetCode](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode)
 ## [Challenge-Aug2020](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020)
