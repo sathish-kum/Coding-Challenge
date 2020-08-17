@@ -9,7 +9,7 @@ This is a repository for coding challenges which I completed in Coding challenge
    3. [Kangaroo](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Kangaroo)
    4. [Breaking the records](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Breaking%20the%20records)
    5. [Birthday Chocolate](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Birthday%20Chocolate)
-   6. [Divisible Sum Pairs]()
+   6. [Divisible Sum Pairs](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Divisible%20Sum%20Pairs)
 
 # [LeetCode](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode)
 ## [Challenge-Aug2020](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020)
