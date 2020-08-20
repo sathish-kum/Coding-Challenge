@@ -20,5 +20,5 @@ Return the final sentence representing the conversion from **S** to Goat Latin.
 
 **Example 1:**
 
-**Input:** "I speak Goat Latin"
+**Input:** "I speak Goat Latin"<br/>
 **Output:** "Imaa peaksmaaa oatGmaaaa atinLmaaaaa"
