@@ -12,6 +12,7 @@ This is a repository for coding challenges which I completed in Coding challenge
    6. [Divisible Sum Pairs](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Divisible%20Sum%20Pairs)
    7. [Migratory Birds](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Migratory%20Birds)
    8. [Day of the Programmer](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Day%20of%20the%20Programmer)
+   9. [Bon Appetit](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Bon%20Appetit)
 
 # [LeetCode](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode)
 ## [Challenge-Aug2020](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020)
