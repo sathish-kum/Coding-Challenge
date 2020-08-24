@@ -14,6 +14,7 @@ This is a repository for coding challenges which I completed in Coding challenge
    8. [Day of the Programmer](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Day%20of%20the%20Programmer)
    9. [Bon Appetit](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Bon%20Appetit)
    10. [Sock Merchant](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Sock%20Merchant)
+   11. [Drawing Book](https://github.com/sathish-kum/Coding-Challenge/tree/master/Hackerrank/Algorithm/Implementation/Drawing%20Book)
 
 # [LeetCode](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode)
 ## [Challenge-Aug2020](https://github.com/sathish-kum/Coding-Challenge/tree/master/LeetCode/Challenge-Aug2020)
